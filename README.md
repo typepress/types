@@ -1,4 +1,4 @@
 types
 =====
 
-Common type
+Common types
